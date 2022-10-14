@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TP2_projClion",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01-pairImpair::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01-pairImpair-Debug-c837169375a6eabae88a.json",
+					"name" : "01-pairImpair",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02-anneesBissextiles::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02-anneesBissextiles-Debug-d79f46765aacab26a117.json",
+					"name" : "02-anneesBissextiles",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "03-voyelleConsonne::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-03-voyelleConsonne-Debug-d591497e23fb8a73242b.json",
+					"name" : "03-voyelleConsonne",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "04-plusGrandSur3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-04-plusGrandSur3-Debug-477016dee495bb738bee.json",
+					"name" : "04-plusGrandSur3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "05-equation1Degre::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-05-equation1Degre-Debug-dc08ecc0b785cd4cda41.json",
+					"name" : "05-equation1Degre",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06-calculatrice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06-calculatrice-Debug-6287af62b81c08fc8234.json",
+					"name" : "06-calculatrice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "06-calculatrice2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-06-calculatrice2-Debug-5f823a18a2b22acea86b.json",
+					"name" : "06-calculatrice2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/joris/Documents/Enseignements/1SNIR/TP2_alternatives/TP2_alternatives_projClion_CORR/cmake-build-debug",
+		"source" : "/Users/joris/Documents/Enseignements/1SNIR/TP2_alternatives/TP2_alternatives_projClion_CORR"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
